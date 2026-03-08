@@ -23,6 +23,9 @@ Experienced in building enterprise-grade banking, retail, and EdTech application
 - 📫 Reach me at **bhati.ravindra919@gmail.com**
 
 ---
+## 📅 GitHub Contribution Calendar
+
+![GitHub Contribution](https://ghchart.rshah.org/ravindrabhati7)
 
 ## 🏆 Key Achievements
 
@@ -75,20 +78,13 @@ Firebase • AWS • SQLite • Realm • CloudKit
 - Push notifications and engagement optimization
 
 ---
+## 📈 Contribution Graph
 
-## 📊 GitHub Stats
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ravindrabhati7&theme=github-dark" />
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravindrabhati7&show_icons=true&locale=en&layout=compact" alt="ravindrabhati7" />
-</p>
+## 🔥 Coding Streak
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravindrabhati7&show_icons=true&locale=en" alt="ravindrabhati7" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindrabhati7&" alt="ravindrabhati7" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ravindrabhati7&theme=tokyonight)
 
 ---
 
