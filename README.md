@@ -23,9 +23,8 @@ Experienced in building enterprise-grade banking, retail, and EdTech application
 - 📫 Reach me at **bhati.ravindra919@gmail.com**
 
 ---
-## 📅 GitHub Contribution Calendar
-
-![GitHub Contribution](https://ghchart.rshah.org/ravindrabhati7)
+## 📅 Contribution Calendar
+![Contribution](https://ghchart.rshah.org/219138/ravindrabhati7)
 
 ## 🏆 Key Achievements
 
