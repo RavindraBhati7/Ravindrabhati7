@@ -9,7 +9,8 @@ Experienced in building enterprise-grade banking, retail, and EdTech application
 <p align="center">
 <a href="https://www.linkedin.com/in/ravindrabhati-454548126/">LinkedIn</a> •
 <a href="https://leetcode.com/u/ravindrabhati7/">LeetCode</a> •
-<a href="https://ravindrabhati919.medium.com">Medium</a>
+<a href="https://ravindrabhati919.medium.com">Medium</a> •
+<a href="https://ravindrabhati7.github.io/">Portfolio</a>
 </p>
 
 ---
