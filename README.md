@@ -88,14 +88,12 @@ Firebase • AWS • SQLite • Realm • CloudKit
 ---
 
 ## 🤝 Connect With Me
-
 <p align="left">
 <a href="https://www.linkedin.com/in/ravindrabhati-454548126/">LinkedIn</a><br>
 <a href="https://leetcode.com/u/ravindrabhati7/">LeetCode</a><br>
 <a href="https://ravindrabhati919.medium.com">Medium</a><br>
 Email: bhati.ravindra919@gmail.com
 </p>
-
 ---
 
 ## ⚡ Fun Fact
