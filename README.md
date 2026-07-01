@@ -10,7 +10,7 @@ Experienced in building enterprise-grade banking, retail, and EdTech application
 <a href="https://www.linkedin.com/in/ravindrabhati-454548126/">LinkedIn</a> •
 <a href="https://leetcode.com/u/ravindrabhati7/">LeetCode</a> •
 <a href="https://ravindrabhati919.medium.com">Medium</a> •
-<a href="https://ravindrabhati7.github.io/">Portfolio</a>
+<a href="https://ravindrabhati7.github.io/">Portfolio</a> • 
 </p>
 
 ---
@@ -94,6 +94,7 @@ Firebase • AWS • SQLite • Realm • CloudKit
 <a href="https://leetcode.com/u/ravindrabhati7/">LeetCode</a><br>
 <a href="https://ravindrabhati919.medium.com">Medium</a><br>
 Email: bhati.ravindra919@gmail.com
+<a href="https://ravindrabhati7.github.io/">Portfolio</a>
 </p>
 ---
 
